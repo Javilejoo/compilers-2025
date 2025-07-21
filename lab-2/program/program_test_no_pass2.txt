@@ -1,0 +1,3 @@
+3.5 % 2         # % con float
+"hola" + 5      # concatenar string + int
+true ^ false    # ^ con bool
